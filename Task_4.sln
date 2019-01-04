@@ -7,6 +7,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4", "Ttttttttttttttttt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{BA43F77A-1CA4-4C9F-BFDC-15E82D9E6500}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{DD691886-7568-41E7-896E-923D465862C3}"
+	ProjectSection(SolutionItems) = preProject
+		Ttttttttttttttttttask4\bin\Debug\img\1.jpg = Ttttttttttttttttttask4\bin\Debug\img\1.jpg
+		Ttttttttttttttttttask4\bin\Debug\img\2.jpg = Ttttttttttttttttttask4\bin\Debug\img\2.jpg
+		Ttttttttttttttttttask4\bin\Debug\img\3.png = Ttttttttttttttttttask4\bin\Debug\img\3.png
+		Ttttttttttttttttttask4\bin\Debug\img\4.png = Ttttttttttttttttttask4\bin\Debug\img\4.png
+		Ttttttttttttttttttask4\bin\Debug\img\5.png = Ttttttttttttttttttask4\bin\Debug\img\5.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
