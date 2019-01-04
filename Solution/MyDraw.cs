@@ -17,11 +17,11 @@ namespace Solution
 
         public MyDraw()
         {
-            dont_w = Image.FromFile(System.IO.Path.GetFullPath(@"img\1.jpg"));
-            working = Image.FromFile(System.IO.Path.GetFullPath(@"img\2.jpg"));
-            box = Image.FromFile(System.IO.Path.GetFullPath(@"img\3.png"));
-            lifter = Image.FromFile(System.IO.Path.GetFullPath(@"img\4.png"));
-            asd = Image.FromFile(System.IO.Path.GetFullPath(@"img\5.png"));
+            dont_w = Image.FromFile(System.IO.Path.GetFullPath(@"..\..\..\img\1.jpg"));
+            working = Image.FromFile(System.IO.Path.GetFullPath(@"..\..\..\img\2.jpg"));
+            box = Image.FromFile(System.IO.Path.GetFullPath(@"..\..\..\img\3.png"));
+            lifter = Image.FromFile(System.IO.Path.GetFullPath(@"..\..\..\img\4.png"));
+            asd = Image.FromFile(System.IO.Path.GetFullPath(@"..\..\..\img\5.png"));
         }
         
         public void DrawWorker(Graphics g, List<Worker> workers)
