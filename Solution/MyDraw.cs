@@ -17,11 +17,11 @@ namespace Solution
 
         public MyDraw()
         {
-            dont_w = Image.FromFile("1.jpg");
-            working = Image.FromFile("2.jpg");
-            box = Image.FromFile("4.png");
-            lifter = Image.FromFile("3.png");
-            asd = Image.FromFile("5.png");
+            dont_w = Image.FromFile("C:/Users/Арина/Desktop/проги/ЯиСП/Task_4/Ttttttttttttttttttask4/bin/Debug/1.jpg");
+            working = Image.FromFile("C:/Users/Арина/Desktop/проги/ЯиСП/Task_4/Ttttttttttttttttttask4/bin/Debug/2.jpg");
+            box = Image.FromFile("C:/Users/Арина/Desktop/проги/ЯиСП/Task_4/Ttttttttttttttttttask4/bin/Debug/4.png");
+            lifter = Image.FromFile("C:/Users/Арина/Desktop/проги/ЯиСП/Task_4/Ttttttttttttttttttask4/bin/Debug/3.png");
+            asd = Image.FromFile("C:/Users/Арина/Desktop/проги/ЯиСП/Task_4/Ttttttttttttttttttask4/bin/Debug/5.png");
         }
         
         public void DrawWorker(Graphics g, List<Worker> workers)
